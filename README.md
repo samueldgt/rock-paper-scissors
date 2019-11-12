@@ -4,12 +4,19 @@ A configurable "rock, paper & sissors" game developed with Node.js + Express in 
 
 Follow the next steps to run the app in your machine
 
-
 Pre-requisites:
+
   - Nodejs and NPM installed.
   - MongoDB installed.
 
-Getting started:
+Fast Start:
+
+  - CLone this repo
+  - Open the project folder in a terminal, cd in "/server", run "npm install" and then "npm run server" (keep this terminal window open with the server running).
+  - Open the project folder in a new terminal, cd in "/client", run "npm install" and then "npm start" (keep this terminal window open with the client running).
+  - Go to "http://localhost:3000/" and enjoy.
+
+Getting started (detailed):
 
   1. CLone this repo in clour computer or download the forlder.
   2. Open the proyect folder in a terminal
@@ -32,5 +39,6 @@ Getting started:
   --- The Database
 
   7. if you have mongoDB installed in your machine everything must set up automatically, but just in case, the database port is 27017 by default in mongoDB, if the database doesn't work go to "/server/.env" file and change the database port defined in the DB_URL value
+  8. Enjoy playing at "http://localhost:3000/" :)
 
 Developer: Samuel Gonzalez
