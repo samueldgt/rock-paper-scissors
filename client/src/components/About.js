@@ -21,10 +21,6 @@ const About = () => {
               <td>samueldgt@gmail.com</td>
             </tr>
             <tr>
-              <th scope="row">Phone Number</th>
-              <td>+56 9 3582 4696</td>
-            </tr>
-            <tr>
               <th scope="row">Location</th>
               <td>Santiago, Chile</td>
             </tr>
