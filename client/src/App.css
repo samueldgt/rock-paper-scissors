@@ -1,0 +1,24 @@
+.content {
+  padding-top: 40px;
+}
+
+.content-heading {
+  color: #fff;
+  background-color: #343a40;
+  border: 1px solid #454d55;
+  padding: .75rem;  
+  line-height: 1.5;
+  font-weight: bold;
+  font-size: 1rem;
+  display: block;
+  margin-bottom: 1rem;
+  text-transform:capitalize;
+}
+
+.player-name, .action-tittle {
+  text-transform:capitalize;
+}
+
+.btn-play-again {
+  margin-top: 20px;
+}
